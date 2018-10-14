@@ -4,6 +4,3 @@ function shout(string) {
 function whisper(string) {
   return string.toLowerCase()
 }
-function itsOneArgumentInAllCaps(string) {
-  console.log('spy.its one argument in all caps')
-}
