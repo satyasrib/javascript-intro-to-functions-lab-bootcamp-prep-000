@@ -4,7 +4,7 @@ function shout(string) {
 function whisper(string) {
   return string.toLowerCase()
 }
-function logShout(HELLO) {
-  console.log('hello')
+function logShout(string) {
+  console.log(spy.its one argument in all caps)
   return `$its one argument in all caps`
 }
