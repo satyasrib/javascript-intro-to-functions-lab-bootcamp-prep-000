@@ -5,5 +5,5 @@ function whisper(string) {
   return string.toLowerCase()
 }
 function logShout(string) {
-  console.log('its one argument in all caps')
+  console.log('hello')
 }
