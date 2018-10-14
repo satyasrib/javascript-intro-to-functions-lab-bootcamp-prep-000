@@ -6,5 +6,4 @@ function whisper(string) {
 }
 function logShout(string) {
   console.log(spy.its one argument in all caps)
-  return `$its one argument in all caps`
 }
