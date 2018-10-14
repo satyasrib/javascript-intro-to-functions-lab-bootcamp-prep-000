@@ -5,5 +5,5 @@ function whisper(string) {
   return string.toLowerCase()
 }
 function logShout(string) {
-  return string.its one argument in all caps()
+  return string.caps()
 }
